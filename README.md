@@ -1,0 +1,2 @@
+# phaedra
+Terminal colour scheme
