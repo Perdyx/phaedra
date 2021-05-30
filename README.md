@@ -2,10 +2,6 @@
 
 Phaedra is a terminal colour scheme focused on visibility.
 
-# Installation
-
-Formatted config files can be found in ./configs
-
 # Colours
 
 | ![](https://github.com/Perdyx/hunt/blob/main/colorize-black-18dp.svg) | Palette | Hex |
